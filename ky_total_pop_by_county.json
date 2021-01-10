@@ -1,0 +1,602 @@
+[
+  {
+    "CTYNAME": "Jefferson County",
+    "pop2020": 765413,
+    "GrowthRate": "3.1479"
+  },
+  {
+    "CTYNAME": "Fayette County",
+    "pop2020": 323878,
+    "GrowthRate": "9.1057"
+  },
+  {
+    "CTYNAME": "Kenton County",
+    "pop2020": 167704,
+    "GrowthRate": "4.8406"
+  },
+  {
+    "CTYNAME": "Boone County",
+    "pop2020": 135261,
+    "GrowthRate": "13.3095"
+  },
+  {
+    "CTYNAME": "Warren County",
+    "pop2020": 135042,
+    "GrowthRate": "18.1046"
+  },
+  {
+    "CTYNAME": "Hardin County",
+    "pop2020": 111637,
+    "GrowthRate": "4.3824"
+  },
+  {
+    "CTYNAME": "Daviess County",
+    "pop2020": 102139,
+    "GrowthRate": "5.6202"
+  },
+  {
+    "CTYNAME": "Madison County",
+    "pop2020": 93867,
+    "GrowthRate": "12.4587"
+  },
+  {
+    "CTYNAME": "Campbell County",
+    "pop2020": 93704,
+    "GrowthRate": "3.3998"
+  },
+  {
+    "CTYNAME": "Bullitt County",
+    "pop2020": 82343,
+    "GrowthRate": "10.5275"
+  },
+  {
+    "CTYNAME": "Christian County",
+    "pop2020": 70210,
+    "GrowthRate": "-5.2880"
+  },
+  {
+    "CTYNAME": "Oldham County",
+    "pop2020": 67086,
+    "GrowthRate": "11.0015"
+  },
+  {
+    "CTYNAME": "McCracken County",
+    "pop2020": 65529,
+    "GrowthRate": "0.0214"
+  },
+  {
+    "CTYNAME": "Pulaski County",
+    "pop2020": 65374,
+    "GrowthRate": "3.4562"
+  },
+  {
+    "CTYNAME": "Laurel County",
+    "pop2020": 60966,
+    "GrowthRate": "3.3357"
+  },
+  {
+    "CTYNAME": "Scott County",
+    "pop2020": 58040,
+    "GrowthRate": "22.7736"
+  },
+  {
+    "CTYNAME": "Pike County",
+    "pop2020": 57260,
+    "GrowthRate": "-12.0079"
+  },
+  {
+    "CTYNAME": "Jessamine County",
+    "pop2020": 54473,
+    "GrowthRate": "11.8956"
+  },
+  {
+    "CTYNAME": "Franklin County",
+    "pop2020": 51181,
+    "GrowthRate": "3.9145"
+  },
+  {
+    "CTYNAME": "Shelby County",
+    "pop2020": 49989,
+    "GrowthRate": "18.4882"
+  },
+  {
+    "CTYNAME": "Nelson County",
+    "pop2020": 46653,
+    "GrowthRate": "6.9312"
+  },
+  {
+    "CTYNAME": "Boyd County",
+    "pop2020": 46144,
+    "GrowthRate": "-6.9715"
+  },
+  {
+    "CTYNAME": "Henderson County",
+    "pop2020": 44908,
+    "GrowthRate": "-2.9226"
+  },
+  {
+    "CTYNAME": "Barren County",
+    "pop2020": 44383,
+    "GrowthRate": "5.3828"
+  },
+  {
+    "CTYNAME": "Hopkins County",
+    "pop2020": 44348,
+    "GrowthRate": "-5.3223"
+  },
+  {
+    "CTYNAME": "Calloway County",
+    "pop2020": 39038,
+    "GrowthRate": "4.5250"
+  },
+  {
+    "CTYNAME": "Graves County",
+    "pop2020": 37213,
+    "GrowthRate": "-0.1315"
+  },
+  {
+    "CTYNAME": "Whitley County",
+    "pop2020": 36427,
+    "GrowthRate": "1.9850"
+  },
+  {
+    "CTYNAME": "Clark County",
+    "pop2020": 36346,
+    "GrowthRate": "2.0869"
+  },
+  {
+    "CTYNAME": "Floyd County",
+    "pop2020": 35282,
+    "GrowthRate": "-11.6404"
+  },
+  {
+    "CTYNAME": "Greenup County",
+    "pop2020": 34864,
+    "GrowthRate": "-5.4792"
+  },
+  {
+    "CTYNAME": "Marshall County",
+    "pop2020": 30998,
+    "GrowthRate": "-1.4403"
+  },
+  {
+    "CTYNAME": "Knox County",
+    "pop2020": 30990,
+    "GrowthRate": "-2.7032"
+  },
+  {
+    "CTYNAME": "Muhlenberg County",
+    "pop2020": 30433,
+    "GrowthRate": "-3.8664"
+  },
+  {
+    "CTYNAME": "Boyle County",
+    "pop2020": 30038,
+    "GrowthRate": "4.7569"
+  },
+  {
+    "CTYNAME": "Meade County",
+    "pop2020": 28521,
+    "GrowthRate": "-0.6721"
+  },
+  {
+    "CTYNAME": "Montgomery County",
+    "pop2020": 28205,
+    "GrowthRate": "6.2375"
+  },
+  {
+    "CTYNAME": "Logan County",
+    "pop2020": 27221,
+    "GrowthRate": "1.3780"
+  },
+  {
+    "CTYNAME": "Woodford County",
+    "pop2020": 26977,
+    "GrowthRate": "7.7356"
+  },
+  {
+    "CTYNAME": "Grayson County",
+    "pop2020": 26561,
+    "GrowthRate": "3.0055"
+  },
+  {
+    "CTYNAME": "Carter County",
+    "pop2020": 26554,
+    "GrowthRate": "-4.2961"
+  },
+  {
+    "CTYNAME": "Taylor County",
+    "pop2020": 26024,
+    "GrowthRate": "5.4756"
+  },
+  {
+    "CTYNAME": "Harlan County",
+    "pop2020": 25711,
+    "GrowthRate": "-12.0149"
+  },
+  {
+    "CTYNAME": "Bell County",
+    "pop2020": 25577,
+    "GrowthRate": "-10.9095"
+  },
+  {
+    "CTYNAME": "Perry County",
+    "pop2020": 25308,
+    "GrowthRate": "-11.7235"
+  },
+  {
+    "CTYNAME": "Grant County",
+    "pop2020": 25073,
+    "GrowthRate": "1.6047"
+  },
+  {
+    "CTYNAME": "Lincoln County",
+    "pop2020": 24486,
+    "GrowthRate": "-0.9626"
+  },
+  {
+    "CTYNAME": "Rowan County",
+    "pop2020": 24417,
+    "GrowthRate": "4.4533"
+  },
+  {
+    "CTYNAME": "Ohio County",
+    "pop2020": 23924,
+    "GrowthRate": "0.3776"
+  },
+  {
+    "CTYNAME": "Anderson County",
+    "pop2020": 22853,
+    "GrowthRate": "6.4415"
+  },
+  {
+    "CTYNAME": "Mercer County",
+    "pop2020": 22164,
+    "GrowthRate": "4.0173"
+  },
+  {
+    "CTYNAME": "Johnson County",
+    "pop2020": 21985,
+    "GrowthRate": "-5.9867"
+  },
+  {
+    "CTYNAME": "Allen County",
+    "pop2020": 21508,
+    "GrowthRate": "7.3414"
+  },
+  {
+    "CTYNAME": "Letcher County",
+    "pop2020": 21293,
+    "GrowthRate": "-13.2102"
+  },
+  {
+    "CTYNAME": "Breckinridge County",
+    "pop2020": 20645,
+    "GrowthRate": "3.0035"
+  },
+  {
+    "CTYNAME": "Wayne County",
+    "pop2020": 20236,
+    "GrowthRate": "-2.9448"
+  },
+  {
+    "CTYNAME": "Clay County",
+    "pop2020": 19714,
+    "GrowthRate": "-8.9843"
+  },
+  {
+    "CTYNAME": "Spencer County",
+    "pop2020": 19681,
+    "GrowthRate": "14.4178"
+  },
+  {
+    "CTYNAME": "Bourbon County",
+    "pop2020": 19460,
+    "GrowthRate": "-2.5294"
+  },
+  {
+    "CTYNAME": "Marion County",
+    "pop2020": 19220,
+    "GrowthRate": "-3.1250"
+  },
+  {
+    "CTYNAME": "Adair County",
+    "pop2020": 19205,
+    "GrowthRate": "2.3884"
+  },
+  {
+    "CTYNAME": "Hart County",
+    "pop2020": 19168,
+    "GrowthRate": "5.3882"
+  },
+  {
+    "CTYNAME": "Harrison County",
+    "pop2020": 18992,
+    "GrowthRate": "0.9676"
+  },
+  {
+    "CTYNAME": "Simpson County",
+    "pop2020": 18741,
+    "GrowthRate": "8.1045"
+  },
+  {
+    "CTYNAME": "Russell County",
+    "pop2020": 18056,
+    "GrowthRate": "2.7485"
+  },
+  {
+    "CTYNAME": "Garrard County",
+    "pop2020": 17813,
+    "GrowthRate": "5.1473"
+  },
+  {
+    "CTYNAME": "McCreary County",
+    "pop2020": 17172,
+    "GrowthRate": "-6.3073"
+  },
+  {
+    "CTYNAME": "Mason County",
+    "pop2020": 17060,
+    "GrowthRate": "-2.5421"
+  },
+  {
+    "CTYNAME": "Rockcastle County",
+    "pop2020": 16567,
+    "GrowthRate": "-3.0092"
+  },
+  {
+    "CTYNAME": "Casey County",
+    "pop2020": 16392,
+    "GrowthRate": "2.5526"
+  },
+  {
+    "CTYNAME": "Henry County",
+    "pop2020": 16191,
+    "GrowthRate": "5.3005"
+  },
+  {
+    "CTYNAME": "Lawrence County",
+    "pop2020": 15051,
+    "GrowthRate": "-5.1368"
+  },
+  {
+    "CTYNAME": "Fleming County",
+    "pop2020": 14677,
+    "GrowthRate": "1.9236"
+  },
+  {
+    "CTYNAME": "Trigg County",
+    "pop2020": 14644,
+    "GrowthRate": "2.2483"
+  },
+  {
+    "CTYNAME": "Pendleton County",
+    "pop2020": 14592,
+    "GrowthRate": "-2.1656"
+  },
+  {
+    "CTYNAME": "Knott County",
+    "pop2020": 14536,
+    "GrowthRate": "-11.1220"
+  },
+  {
+    "CTYNAME": "Larue County",
+    "pop2020": 14497,
+    "GrowthRate": "2.3149"
+  },
+  {
+    "CTYNAME": "Union County",
+    "pop2020": 14291,
+    "GrowthRate": "-6.4480"
+  },
+  {
+    "CTYNAME": "Estill County",
+    "pop2020": 14062,
+    "GrowthRate": "-4.4247"
+  },
+  {
+    "CTYNAME": "Lewis County",
+    "pop2020": 13282,
+    "GrowthRate": "-4.0110"
+  },
+  {
+    "CTYNAME": "Jackson County",
+    "pop2020": 13255,
+    "GrowthRate": "-1.6691"
+  },
+  {
+    "CTYNAME": "Morgan County",
+    "pop2020": 13246,
+    "GrowthRate": "-3.4970"
+  },
+  {
+    "CTYNAME": "Butler County",
+    "pop2020": 13015,
+    "GrowthRate": "2.1987"
+  },
+  {
+    "CTYNAME": "Webster County",
+    "pop2020": 12833,
+    "GrowthRate": "-5.4938"
+  },
+  {
+    "CTYNAME": "Caldwell County",
+    "pop2020": 12778,
+    "GrowthRate": "-1.7832"
+  },
+  {
+    "CTYNAME": "Bath County",
+    "pop2020": 12556,
+    "GrowthRate": "8.0737"
+  },
+  {
+    "CTYNAME": "Breathitt County",
+    "pop2020": 12473,
+    "GrowthRate": "-9.9877"
+  },
+  {
+    "CTYNAME": "Powell County",
+    "pop2020": 12347,
+    "GrowthRate": "-2.3412"
+  },
+  {
+    "CTYNAME": "Todd County",
+    "pop2020": 12282,
+    "GrowthRate": "-1.2066"
+  },
+  {
+    "CTYNAME": "Washington County",
+    "pop2020": 12167,
+    "GrowthRate": "4.0359"
+  },
+  {
+    "CTYNAME": "Edmonson County",
+    "pop2020": 12051,
+    "GrowthRate": "-1.4475"
+  },
+  {
+    "CTYNAME": "Magoffin County",
+    "pop2020": 11999,
+    "GrowthRate": "-9.8226"
+  },
+  {
+    "CTYNAME": "Martin County",
+    "pop2020": 11065,
+    "GrowthRate": "-14.1915"
+  },
+  {
+    "CTYNAME": "Owen County",
+    "pop2020": 10921,
+    "GrowthRate": "0.6544"
+  },
+  {
+    "CTYNAME": "Green County",
+    "pop2020": 10884,
+    "GrowthRate": "-3.0810"
+  },
+  {
+    "CTYNAME": "Monroe County",
+    "pop2020": 10568,
+    "GrowthRate": "-3.6645"
+  },
+  {
+    "CTYNAME": "Carroll County",
+    "pop2020": 10550,
+    "GrowthRate": "-2.3691"
+  },
+  {
+    "CTYNAME": "Clinton County",
+    "pop2020": 10284,
+    "GrowthRate": "0.3905"
+  },
+  {
+    "CTYNAME": "Metcalfe County",
+    "pop2020": 10072,
+    "GrowthRate": "-0.7391"
+  },
+  {
+    "CTYNAME": "Leslie County",
+    "pop2020": 9603,
+    "GrowthRate": "-14.8519"
+  },
+  {
+    "CTYNAME": "McLean County",
+    "pop2020": 9156,
+    "GrowthRate": "-3.7730"
+  },
+  {
+    "CTYNAME": "Livingston County",
+    "pop2020": 9144,
+    "GrowthRate": "-3.9496"
+  },
+  {
+    "CTYNAME": "Gallatin County",
+    "pop2020": 8972,
+    "GrowthRate": "4.1802"
+  },
+  {
+    "CTYNAME": "Crittenden County",
+    "pop2020": 8716,
+    "GrowthRate": "-6.2493"
+  },
+  {
+    "CTYNAME": "Hancock County",
+    "pop2020": 8706,
+    "GrowthRate": "1.8127"
+  },
+  {
+    "CTYNAME": "Trimble County",
+    "pop2020": 8474,
+    "GrowthRate": "-3.8357"
+  },
+  {
+    "CTYNAME": "Bracken County",
+    "pop2020": 8328,
+    "GrowthRate": "-2.1731"
+  },
+  {
+    "CTYNAME": "Lyon County",
+    "pop2020": 8249,
+    "GrowthRate": "-0.9605"
+  },
+  {
+    "CTYNAME": "Ballard County",
+    "pop2020": 7784,
+    "GrowthRate": "-5.7627"
+  },
+  {
+    "CTYNAME": "Lee County",
+    "pop2020": 7754,
+    "GrowthRate": "0.4795"
+  },
+  {
+    "CTYNAME": "Elliott County",
+    "pop2020": 7535,
+    "GrowthRate": "-3.9271"
+  },
+  {
+    "CTYNAME": "Nicholas County",
+    "pop2020": 7343,
+    "GrowthRate": "3.0163"
+  },
+  {
+    "CTYNAME": "Wolfe County",
+    "pop2020": 7115,
+    "GrowthRate": "-3.3419"
+  },
+  {
+    "CTYNAME": "Menifee County",
+    "pop2020": 6541,
+    "GrowthRate": "2.6683"
+  },
+  {
+    "CTYNAME": "Cumberland County",
+    "pop2020": 6535,
+    "GrowthRate": "-4.7931"
+  },
+  {
+    "CTYNAME": "Fulton County",
+    "pop2020": 5872,
+    "GrowthRate": "-13.7359"
+  },
+  {
+    "CTYNAME": "Carlisle County",
+    "pop2020": 4781,
+    "GrowthRate": "-5.9414"
+  },
+  {
+    "CTYNAME": "Owsley County",
+    "pop2020": 4356,
+    "GrowthRate": "-8.2561"
+  },
+  {
+    "CTYNAME": "Hickman County",
+    "pop2020": 4329,
+    "GrowthRate": "-10.9259"
+  },
+  {
+    "CTYNAME": "Robertson County",
+    "pop2020": 2086,
+    "GrowthRate": "-8.3077"
+  }
+]
